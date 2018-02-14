@@ -24,3 +24,8 @@ The ide of choice is Visual Studio Code
 NO components will be created through the ionic cli, because i want to have nested pages for a better folder structure.
 
 ## Software Design
+
+
+## sources
+* https://medium.com/@ankushaggarwal/ionic-chat-application-55f32b4d1586
+* https://github.com/mojofit/imojo
